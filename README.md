@@ -4,8 +4,7 @@
 </html>
 <html>
 <head>
-<title> Today and Tommorow </title>
-<style>
+
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
@@ -99,3 +98,4 @@ tr:nth-child(even) {
 </body>
 </html>
 <a href="Tle Pt> click this text to move link </a>
+         
