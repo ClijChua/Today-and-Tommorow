@@ -4,20 +4,6 @@
 </html>
 <html>
 <head>
-<title> Today and Tommorow </title>
-<style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style>
-</head>
-<body>
-<body style="background-color:hsla(0,100%,50%,0.5);">
-<body bgcolor="green">
-<title>Page Title</title>
-</head>
-<body>
-​<U> TODAY AND TOMORROW".</p></U>
 <p align="center"><S>"Yesterday is not ours to recover, but tomorrow is ours to win or lose"<br> -Lyndon B Johnson...</S>
 <h4><p>Covid...Covid is everywhere, chaos and death everywhere,<br> That, That is what happening to the world at the moment.<br> for more information Coronaviruses are a large family of zoonotic viruses that cause illness ranging from,<br> the common cold to severe respiratory diseases.<br>Zoonotic means these viruses are able to be transmitted from animals to humans.<br>There are several coronaviruses known to be circulating in different animal populations that have not yet infected humans.<br>COVID-19 is the most recent to make the jump to human infection. </p></h4> 
 <p align="center"><b>America, China , Russia , Japan, You name it,all over the world are dealing with covid.<br> People are struggling and suffering as their lives goes on by this pandemic .<br> Everyone prays  to God for safety and everything else. But as time goes on,<br> Some people live their lives with chaos while there are those who dont give a damn<br> about the pandemic and there are those who live with no problems</b>
