@@ -4,7 +4,8 @@
 </html>
 <html>
 <head>
-
+<title> Today and Tommorow </title>
+<style>
 h1 {text-align: center;}
 p {text-align: center;}
 div {text-align: center;}
@@ -88,14 +89,10 @@ tr:nth-child(even) {
 </table>
 
 <p><b>Total Cases:113M Total Recovered:63.5M Total Deaths:2.5M</p></b>
-
-<h3> <U> Groupmates:Vincent Jimera<br>Wren Berden<br>Karl Padilla<br> Clijster Chua</h6></U>
+<b> And in the course of 5 months that much already happend.<br>Hope is defined by different People and Nations but<br> hope for me is never giving up for what is right and also hope gives us motivation and makes us feel comfortable for ourselves.<br>  And Hope can come in any form or shape or word.<br> And so, Dove is a symbol that represents purity, gentleness, devotion, beauty, and faith.<br> And the rainbow makes it so that the dove flying towards us against the rainbow look as if we are seeing hope.<br> And to those who loss almost everything because of this pandemic we shouldn’t really put our attention to what’s now but to what’s coming for the future.
+<h6> <U> Groupmates:Vincent Jimera<br>Wren Berden<br>Karl Padilla<br> Clijster Chua</h6></U>
                     
-
-​<h2>HTML Image</h2>
-<img src="img_Doverer.jpg" alt="Doverer" width="500" height="333">
 
 </body>
 </html>
-<a href="Tle Pt> click this text to move link </a>
          
